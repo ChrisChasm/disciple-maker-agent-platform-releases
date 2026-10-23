@@ -2,7 +2,7 @@
 
 Distribution repository for the macOS application. Application source belongs in the separate private `ChrisChasm/disciple-maker-agent-platform` repository.
 
-This repository is currently private. Download access and the authenticated update route are not yet configured; it is not a functioning update service yet.
+This repository is public. Installers and updates require no GitHub sign-in; application source remains private. The first release is still being validated, so there is no downloadable installer yet.
 
 Each published release will contain the signed and notarized application ZIP, `latest-mac.yml` for the native macOS updater, `release.json` with checksums and the exact application and Hermes source revisions, and release notes.
 
